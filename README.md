@@ -6,7 +6,7 @@ Excel KPI dashboard built for the Arrowstack Data Analytics internship (Project 
 
 ## Files
 - sales_dashboard.xlsx: the dashboard (filters, charts, executive summary, validation)
-- sales-dashboard-project1.zip: full project (data, scripts, docs)
+- project1_final.zip: full project (data, scripts, docs)
 
 ## Key results
 - Revenue $607,403 | 2,626 orders | AOV $231.30 | Conversion 3.38%
